@@ -360,10 +360,17 @@ a {
     min-height: 952px;
   }
 
-  /* .portfolio-items {
+  .portfolio-items {
     text-align: center;
     margin: 10px;
+    display: flex;
   }
+
+  .portfolio-item {
+    margin: 10px 30px;
+  }
+
+  /*
 
   .portfolio-item {
     display: flex;
