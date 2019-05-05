@@ -258,6 +258,7 @@ a {
 
   .portfolio-item {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     align-items: center;
     justify-content: center;
@@ -349,11 +350,17 @@ a {
     flex-direction: row;
     justify-content: space-evenly;
   }
+  .expertise-1 > ul {
+    align-items: flex-start;
+  }
 
   .expertise-2 {
     min-height: 952px;
     flex-direction: row;
     justify-content: space-evenly;
+  }
+  .expertise-2 > ul {
+    align-items: flex-start;
   }
 
   .portfolio {
