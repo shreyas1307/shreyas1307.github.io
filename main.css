@@ -200,7 +200,7 @@ a {
   .expertise-1 > ul > li {
     margin: 10px 20px 0 20px;
     padding: 5px 10px;
-    border: 3px solid #fff;
+    /* border: 3px solid #fff; */
     border-radius: 10px;
   }
 
@@ -233,7 +233,7 @@ a {
   .expertise-2 > ul > li {
     margin: 10px 20px 0 20px;
     padding: 5px 10px;
-    border: 3px solid #fff;
+    /* border: 3px solid #fff; */
     border-radius: 10px;
   }
 
